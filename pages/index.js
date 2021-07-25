@@ -1,6 +1,7 @@
 import React from "react";
 import { getFeaturedEvents } from "../dummy-data";
 import EventList from "../components/events/event-list";
+import GitHubLink from "../components/github-link";
 
 export default function Home() {
   const featuredEvents = getFeaturedEvents();
@@ -8,6 +9,7 @@ export default function Home() {
   return (
     <div>
       <EventList items={featuredEvents} />
+      <GitHubLink />
     </div>
   );
 }
