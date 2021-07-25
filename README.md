@@ -1,6 +1,12 @@
+# NextJS events website
+
 ## Website Link
 
 https://nextjs-events-kappa.vercel.app/events
+
+<img width="1440" alt="Screenshot 2021-07-03 at 8 16 14 PM" src="https://user-images.githubusercontent.com/74422938/124357929-91122a00-dc3b-11eb-9d96-172cf768ae13.png">
+
+<img width="1440" alt="Screenshot 2021-07-03 at 8 16 21 PM" src="https://user-images.githubusercontent.com/74422938/124357978-c7e84000-dc3b-11eb-827f-d91d456dcb90.png">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
